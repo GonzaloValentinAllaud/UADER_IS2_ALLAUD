@@ -1,0 +1,15 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Coverage
+.coverage
+htmlcov/
+
+# Cache de Ruff
+.ruff_cache/
+
+# Entorno virtual (por si acaso)
+entorno_virtual/
+.venv/
+venv/
